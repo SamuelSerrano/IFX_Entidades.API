@@ -31,14 +31,14 @@ Además, se ha implementado la funcionalidad de login en el Servicio de Autentic
    Actualiza la base de datos con las migraciones aplicadas:
 
    ```bash
-  dotnet ef database update --project IFX_Entidades.API
+   dotnet ef database update --project IFX_Entidades.API
 
 4. **Ejecutar la solución**
 
    Ejecuta la aplicación con el siguiente comando:
 
    ```bash
-  dotnet run --project IFX_Entidades.API
+   dotnet run --project IFX_Entidades.API
 
 
 ## Nota
